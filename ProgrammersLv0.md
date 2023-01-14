@@ -1,5 +1,5 @@
 
-### 두 수의 곱
+## 두 수의 곱
 
 
 문제 설명
@@ -25,16 +25,16 @@ num1이 27, num2가 19이므로 27 * 19 = 513을 return합니다.
 
 풀이
 
-
+\~
 def solution(num1, num2):
     answer = num1*num2
     return answer
+~\
 
 
 
 
-
-### 나머지 구하기
+## 나머지 구하기
 
 
 문제 설명
@@ -61,15 +61,15 @@ num1이 10, num2가 5이므로 10을 5로 나눈 나머지 0을 return 합니다
 
 풀이
 
-
+₩₩₩
 def solution(num1, num2):
     answer = num1%num2
     return answer
+₩₩₩
 
 
 
-
-### 몫 구하기
+## 몫 구하기
 
 
 문제 설명
@@ -96,15 +96,15 @@ num1이 7, num2가 2이므로 7을 2로 나눈 몫 3을 return 합니다.
 풀이
 
 
-
+₩₩₩
 def solution(num1, num2):
     answer = num1 // num2
     return answer
+₩₩₩
 
 
 
-
-### 두 수의 차
+## 두 수의 차
 
 
 문제 설명
@@ -130,15 +130,15 @@ num1이 100이고 num2가 2이므로 100 - 2 = 98을 return합니다.
 
 풀이
 
-
+₩₩₩
 def solution(num1, num2):
     answer = num1-num2
     return answer
+₩₩₩
 
 
 
-
-### 두 수의 곱
+## 두 수의 곱
 
 
 문제 설명
@@ -165,8 +165,8 @@ num1이 27, num2가 19이므로 27 * 19 = 513을 return합니다.
 
 풀이
 
-
+₩₩₩
 def solution(num1, num2):
     answer = num1*num2
     return answer
-
+₩₩₩
